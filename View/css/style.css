@@ -1,0 +1,29 @@
+	@font-face {
+		font-family: "Archive-Regular";
+		src: url("../vendor/fonts/Archive-Regular.otf");
+	}
+	@font-face{
+		font-family: "Qontra"
+		src: url("../vendor/fonts/Qontra.otf");
+	}
+
+	h1,h2,h3,h4{
+		font-family: Archive-Regular;
+	}
+
+	h5,h6{
+		font-family: Qontra;
+
+	}
+	.p{
+		font-family: Qontra;
+	}
+	.btn-circle {
+		width: 30px;
+		height: 30px;
+		padding: 6px 0px;
+		border-radius: 15px;
+		text-align: center;
+		font-size: 12px;
+		line-height: 1.42857;
+	}
